@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Programming languages, frameworks, algorithm**
 
-- 🤝 I’m looking for help with **For AI**
+- 🤝 I’m looking for help with **AI**
 
 - 🌱 I’m currently learning **Artifical Intelligence**
 
