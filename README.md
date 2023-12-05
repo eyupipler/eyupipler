@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyyubi26&label=%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8FProfile%20Views&color=8c8c8c&style=flat-square" alt="eyyubi26" /> </p>
 
-- 🔭 I’m currently working on my own project. **E-Typing Messenger App (Available without internet) -- BrAIn Mind Controller Device**
+- 🔭 I’m currently working on my own project. **BrAIn Mind Controller Device**
 
 - 💬 Ask me about **Programming languages, frameworks, algorithm**
 
