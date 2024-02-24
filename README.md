@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eyüp</h1>
 <h3 align="center">A software developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyyubi26&label=%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8FProfile%20Views&color=8c8c8c&style=flat-square" alt="eyyubi26" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eyyubi26&label=%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8FProfile%20Views&color=94ffb2c&style=flat-square&border-radius=10" alt="eyyubi26" /> </p>
 
 - 🔭 I’m currently working on my own project. **BrAIn Mind Controller Device**
 
