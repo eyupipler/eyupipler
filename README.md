@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyüp</h1>
 <h3 align="center">From Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyupipler&label=Viewers&color=525252&style=flat" alt="eyupipler" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eyupipler&label=Viewers&color=525252&style=flat" alt="eyupipler" /> </p>
 
 - 🔭 I’m currently working on [BrAIn](https://github.com/BrAIn-AI-Academy)
 
