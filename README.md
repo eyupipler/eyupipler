@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Programming langs, frameworks, algorithms and AI**
 
-- 🤝 I’m looking for help with **Artifical Intelligence**
+- 🤝 I’m looking for help with **Artificial Intelligence**
 
 - 📫 How to reach me **eyup.ipler@gmail.com**
 
