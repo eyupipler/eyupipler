@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Neurazum](https://github.com/neurazum)
 
-- 🌱 I’m currently learning **Artifical Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **Programming langs, frameworks, algorithms and AI**
 
