@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eyüp</h1>
+<h1 align="center">Hello 👋, I'm Eyüp</h1>
 <h3 align="center">From Türkiye</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eyupipler&label=Viewers&color=525252&style=flat" alt="eyupipler" /> </p>
