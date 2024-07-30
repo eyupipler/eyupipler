@@ -15,11 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eyüp-ipler-03026a244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyüp-ipler-03026a244" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eyupipler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyupipler" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16728047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16728047" height="30" width="40" /></a>
 <a href="https://kaggle.com/eyppler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eyppler" height="30" width="40" /></a>
 <a href="https://instagram.com/eyup.ipler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyup.ipler" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eyüp i̇pler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyüp i̇pler" height="30" width="40" /></a>
 <a href="https://discord.gg/eyyubii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eyyubii" height="30" width="40" /></a>
 </p>
 
