@@ -23,6 +23,6 @@
 <a href="https://discord.gg/eyyubii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eyyubii" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupipler&show_icons=true&theme=dark&title_color=ff2424&text_color=d9d9d9&bg_color=000000&locale=en&layout=compact" alt="eyupipler" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupipler&show_icons=true&theme=dark&title_color=ff2424&text_color=d9d9d9&bg_color=000000&locale=en&layout=compact" alt="eyupipler" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyupipler&show_icons=true&theme=dark&title_color=ff2424&text_color=d9d9d9&bg_color=000000&locale=en" alt="eyupipler" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eyupipler&show_icons=true&theme=dark&title_color=ff2424&text_color=d9d9d9&bg_color=000000&locale=en" alt="eyupipler" /></p>
