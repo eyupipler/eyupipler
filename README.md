@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eyupipler&label=Viewers&color=525252&style=flat" alt="eyupipler" /> </p>
 
-- 🔬 I’m currently working on [Neurazum](https://github.com/neurazum)
+- 🔬 I’m currently working on [Neurazum](https://neurazum.com)
 
 - 💬 Ask me about **Programming langs, frameworks, algorithms and AI**
 
