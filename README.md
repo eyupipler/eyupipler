@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Eyüp</h1>
 <h3 align="center">From Türkiye</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eyupipler&label=Profile Views&color=525252&style=flat" alt="eyupipler" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eyupipler&label=Views&color=525252&style=flat" alt="eyupipler" /> </p>
 
 - 🔬 I’m currently working on [Neurazum](https://neurazum.com)
 
